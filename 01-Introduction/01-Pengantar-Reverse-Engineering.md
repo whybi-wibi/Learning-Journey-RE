@@ -1,4 +1,4 @@
-# Learning Journey #1
+🛠️ Learning Journey #1
 
 ## 📖 Outline
 
