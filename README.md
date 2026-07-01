@@ -88,27 +88,29 @@ Security Research
 Learning-Journey-Reverse-Engineering/
 │
 ├── README.md
-├── docs/
-│   ├── introduction.md
-│   ├── forward-vs-reverse.md
-│   ├── pe-file.md
-│   ├── static-analysis.md
-│   ├── dynamic-analysis.md
-│   ├── assembly.md
-│   └── malware-analysis.md
 │
-├── labs/
-│   ├── lab-01/
-│   ├── lab-02/
-│   └── ...
-│
-├── samples/
-│
-├── assets/
-│   ├── images/
-│   └── diagrams/
-│
-└── tools/
+└── docs/
+    │
+    ├── 01-Introduction/
+    │   ├── 01-Pengantar-Reverse-Engineering.md
+    │   ├── 02-Dasar-Teknis-Reverse-Engineering.md
+    │   ├── 03-Dasar-Assembly-64-bit.md
+    │   ├── 04-Struktur-Program-dan-File-Biner.md
+    │   └── README.md
+    │
+    ├── 02-Static-Analysis/
+    │   ├── 01-Teknik-Analisis-Statis.md
+    │   ├── 02-Studi-Kasus-Static-Analysis.md
+    │   └── README.md
+    │
+    ├── 03-Dynamic-Analysis/
+    │   ├── 01-Teknik-Analisis-Dinamis.md
+    │   ├── 02-Studi-Kasus-Dynamic-Analysis.md
+    │   └── README.md
+    │
+    └── 04-Anti-Reverse-Engineering/
+        ├── 01-Teknik-Anti-Reverse-Engineering.md
+        └── README.md
 ```
 
 ---
