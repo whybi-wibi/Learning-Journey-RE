@@ -1,4 +1,4 @@
-# Learning Journey - Reverse Engineering PART 1
+# Learning Journey #1
 
 ## 📖 Outline
 
